@@ -1,0 +1,16 @@
+[
+
+    {
+        "name": "Scripties Coins",
+        "address": "0xc8473d327ebc762D6B326e50190c292Ea7AFaA56",
+        "symbol": "SSC",
+        "decimals": "18"
+    },
+
+    {
+        "name": "More options Coming Soon",
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "CS",
+        "decimals": "18"
+    }
+]
